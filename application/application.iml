@@ -11,7 +11,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: in.element:bike:1.0" level="project" />
+    <orderEntry type="module" module-name="bike" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.1.8.RELEASE" level="project" />
@@ -74,9 +74,9 @@
     <orderEntry type="library" name="Maven: net.bytebuddy:byte-buddy-agent:1.9.13" level="project" />
     <orderEntry type="library" name="Maven: org.objenesis:objenesis:2.6" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.hsqldb:hsqldb:2.4.1" level="project" />
-    <orderEntry type="library" name="Maven: in.element:sport:1.0" level="project" />
+    <orderEntry type="module" module-name="sport" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.h2database:h2:1.4.199" level="project" />
-    <orderEntry type="library" name="Maven: in.element:jewerly:1.0" level="project" />
-    <orderEntry type="library" name="Maven: in.element:electronic:1.0" level="project" />
+    <orderEntry type="module" module-name="jewerly" />
+    <orderEntry type="module" module-name="electronic" />
   </component>
 </module>

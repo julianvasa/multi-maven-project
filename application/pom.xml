@@ -3,7 +3,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>in.element</groupId>
+    <groupId>multi-maven-project</groupId>
     <artifactId>application</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
@@ -22,22 +22,22 @@
 
     <dependencies>
         <dependency>
-            <groupId>in.element</groupId>
+            <groupId>multi-maven-project</groupId>
             <artifactId>bike</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>in.element</groupId>
+            <groupId>multi-maven-project</groupId>
             <artifactId>sport</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>in.element</groupId>
+            <groupId>multi-maven-project</groupId>
             <artifactId>jewerly</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>in.element</groupId>
+            <groupId>multi-maven-project</groupId>
             <artifactId>electronic</artifactId>
             <version>${project.version}</version>
         </dependency>

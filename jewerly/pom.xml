@@ -9,8 +9,8 @@
     <packaging>jar</packaging>
 
     <parent>
-        <groupId>in.element</groupId>
-        <artifactId>insurance</artifactId>
+        <groupId>multi-maven-project</groupId>
+        <artifactId>main-project</artifactId>
         <version>1.0</version>
     </parent>
 
